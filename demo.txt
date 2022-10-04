@@ -1,1 +1,1 @@
-git installed
+git installed on local machine
